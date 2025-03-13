@@ -9,6 +9,7 @@ This document summarizes my journey during the Cyber Security & Ethical Hacking 
 - **Completion Date:** March 13, 2025
 - **Total Tasks Completed:** 4
 - **Guided by:** ChatGPT
+-  **MENTOR:** neela santosh
 
 ## Tasks Completed
 
@@ -45,13 +46,8 @@ This document summarizes my journey during the Cyber Security & Ethical Hacking 
 ## Credits
 - **Internship Provider:** CODTECH IT SOLUTIONS PVT. LTD.
 - **Guidance & Support:** ChatGPT
-- **Self-Learning & Execution:** [Your Name]
-
+- **Self-Learning & Execution:** SATYA UPENDRA SAMANA
+-  **MENTOR:** neela santosh
+- 
 ## Final Thoughts
 This internship provided me with real-world cybersecurity skills, preparing me for further ethical hacking and penetration testing challenges. This documentation serves as a reflection of my journey and a portfolio of my cybersecurity projects.
-
-   - Share the repository link on your resume or LinkedIn.
-   - Keep updating it with new cybersecurity projects.
-
-This GitHub repository will act as a professional portfolio for your cybersecurity journey.
-
