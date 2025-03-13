@@ -50,24 +50,6 @@ This document summarizes my journey during the Cyber Security & Ethical Hacking 
 ## Final Thoughts
 This internship provided me with real-world cybersecurity skills, preparing me for further ethical hacking and penetration testing challenges. This documentation serves as a reflection of my journey and a portfolio of my cybersecurity projects.
 
-## Uploading to GitHub
-### Steps to Upload This Documentation:
-1. **Create a GitHub Repository:**
-   - Go to [GitHub](https://github.com/) and create a new repository.
-   - Name it `CyberSecurity_Internship_Journey`.
-
-2. **Upload This Documentation:**
-   - Click on `Add file` → `Create new file`.
-   - Name it `README.md`.
-   - Paste the contents of this documentation.
-   - Click `Commit changes`.
-
-3. **Upload Project Files:**
-   - Click on `Upload files`.
-   - Add all Python scripts (`main.py`, `brute_force.py`, etc.).
-   - Click `Commit changes`.
-
-4. **Share & Showcase:**
    - Share the repository link on your resume or LinkedIn.
    - Keep updating it with new cybersecurity projects.
 
